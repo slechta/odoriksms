@@ -1,0 +1,5 @@
+*.o
+sendsms
+test.sh
+
+
